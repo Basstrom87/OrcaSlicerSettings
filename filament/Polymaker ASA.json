@@ -1,0 +1,49 @@
+{
+    "cool_plate_temp": [
+        "90"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "90"
+    ],
+    "eng_plate_temp": [
+        "90"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "90"
+    ],
+    "filament_cost": [
+        "44.95"
+    ],
+    "filament_density": [
+        "1.13"
+    ],
+    "filament_flow_ratio": [
+        "0.837"
+    ],
+    "filament_settings_id": [
+        "Polymaker ASA"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "90"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "90"
+    ],
+    "inherits": "Voron Generic ASA",
+    "is_custom_defined": "0",
+    "name": "Polymaker ASA",
+    "temperature_vitrification": [
+        "105"
+    ],
+    "textured_plate_temp": [
+        "90"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "90"
+    ],
+    "version": "2.2.0.4"
+}
