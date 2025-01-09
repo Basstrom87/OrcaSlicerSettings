@@ -1,12 +1,9 @@
 {
-    "filament_deretraction_speed": [
-        "20"
+    "filament_cost": [
+        "31.95"
     ],
-    "filament_retraction_length": [
-        "1"
-    ],
-    "filament_retraction_speed": [
-        "20"
+    "filament_density": [
+        "1.17"
     ],
     "filament_settings_id": [
         "Polymaker PLA"
@@ -14,27 +11,9 @@
     "filament_vendor": [
         "Polymaker"
     ],
-    "filament_z_hop": [
-        "0.4"
-    ],
-    "filament_z_hop_types": [
-        "Normal Lift"
-    ],
     "from": "User",
-    "hot_plate_temp": [
-        "0"
-    ],
-    "hot_plate_temp_initial_layer": [
-        "0"
-    ],
-    "inherits": "My Generic PLA",
+    "inherits": "Voron Generic PLA",
     "is_custom_defined": "0",
     "name": "Polymaker PLA",
-    "nozzle_temperature": [
-        "210"
-    ],
-    "nozzle_temperature_initial_layer": [
-        "210"
-    ],
-    "version": "1.6.1.0"
+    "version": "2.2.0.4"
 }
