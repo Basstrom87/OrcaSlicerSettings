@@ -1,0 +1,73 @@
+{
+    "cool_plate_temp": [
+        "30"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "30"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "eng_plate_temp": [
+        "30"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "30"
+    ],
+    "filament_type": [
+        "CoPE"
+    ],
+    "filament_density": [
+        "1.3"
+    ],
+    "filament_flow_ratio": [
+        "0.92169"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_retraction_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "Panchroma CoPE"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "30"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "30"
+    ],
+    "inherits": "Voron Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Panchroma CoPE",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "pressure_advance": [
+        "0.032"
+    ],
+    "temperature_vitrification": [
+        "66"
+    ],
+    "textured_cool_plate_temp": [
+        "30"
+    ],
+    "textured_cool_plate_temp_initial_layer": [
+        "30"
+    ],
+    "textured_plate_temp": [
+        "30"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "30"
+    ],
+    "version": "2.2.0.4"
+}
