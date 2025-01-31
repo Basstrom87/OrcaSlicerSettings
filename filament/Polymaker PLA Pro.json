@@ -1,0 +1,34 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "36.95"
+    ],
+    "filament_density": [
+        "1.22"
+    ],
+    "filament_settings_id": [
+        "Polymaker PLA Pro"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "inherits": "Voron Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Polymaker PLA Pro",
+    "nozzle_temperature": [
+        "190"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "190"
+    ],
+    "pressure_advance": [
+        "0.05"
+    ],
+    "temperature_vitrification": [
+        "63"
+    ],
+    "version": "2.2.0.4"
+}
