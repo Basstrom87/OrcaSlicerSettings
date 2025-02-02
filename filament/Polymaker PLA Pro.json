@@ -2,11 +2,23 @@
     "enable_pressure_advance": [
         "1"
     ],
+    "fan_max_speed": [
+        "80"
+    ],
+    "fan_min_speed": [
+        "25"
+    ],
     "filament_cost": [
         "36.95"
     ],
     "filament_density": [
         "1.22"
+    ],
+    "filament_flow_ratio": [
+        "1.00842"
+    ],
+    "filament_max_volumetric_speed": [
+        "12.5"
     ],
     "filament_settings_id": [
         "Polymaker PLA Pro"
@@ -19,13 +31,16 @@
     "is_custom_defined": "0",
     "name": "Polymaker PLA Pro",
     "nozzle_temperature": [
-        "190"
+        "205"
     ],
     "nozzle_temperature_initial_layer": [
-        "190"
+        "205"
+    ],
+    "nozzle_temperature_range_high": [
+        "240"
     ],
     "pressure_advance": [
-        "0.05"
+        "0.046"
     ],
     "temperature_vitrification": [
         "63"

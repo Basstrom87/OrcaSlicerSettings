@@ -1,0 +1,13 @@
+{
+    "from": "User",
+    "inherits": "0.15mm Optimal @Voron",
+    "initial_layer_infill_speed": "55",
+    "initial_layer_speed": "25",
+    "inner_wall_speed": "180",
+    "internal_solid_infill_speed": "180",
+    "is_custom_defined": "0",
+    "name": "PLA Pro 0.4mm Nozzle 0.15mm Layer",
+    "print_settings_id": "PLA Pro 0.4mm Nozzle 0.15mm Layer",
+    "sparse_infill_speed": "180",
+    "version": "2.2.0.4"
+}

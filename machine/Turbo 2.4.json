@@ -13,5 +13,11 @@
     "print_host": "192.168.1.40",
     "printer_settings_id": "Turbo 2.4",
     "support_multi_bed_types": "1",
-    "version": "2.2.0.4"
+    "version": "2.2.0.4",
+    "z_hop": [
+        "0.6"
+    ],
+    "z_hop_types": [
+        "Auto Lift"
+    ]
 }
